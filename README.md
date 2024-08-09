@@ -21,6 +21,6 @@ Here I want to share some elements of the web testing and mobile testing portfol
 * 📱 
 * 🛒🛍️  
 * 🛴 
-* 👩🏾‍💻 
+* 🖧 
 
 ### Follow me
