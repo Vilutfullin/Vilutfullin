@@ -5,7 +5,7 @@ Here I want to share some elements of the web testing and mobile testing portfol
 
 ### A Few Quick Facts
 
-* 👨🏻‍🎓 Finished <a href="https://drive.google.com/file/d/1F7NgxrbDrdi07seJLKzfb2hrs0tKDQ99/view?usp=sharing"> QA Engineer Professional Training Course
+* 👨🏻‍🎓 Finished <a href="https://practicum.yandex.ru/qa-engineer/?from=catalog"> QA Engineer Professional Training Course
 * 🔎 I’m currently open to job opportunities as QA Engineer
 * 💻 I came to the quality control department from the support department
 * 🗃️ My educational projects <a href="https://github.com/Vilutfullin?tab=repositories">Github
@@ -28,7 +28,10 @@ Application testing
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" width="36" height="36" alt="Postman" /></a>
   <a href="https://www.charlesproxy.com/" target="_blank" rel="noreferrer"><img src="https://davidwalsh.name/demo/charlesproxyicon.svg" width="36" height="36" alt="Charles" /></a>
   <a href="https://developer.android.com/studio/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190394.png" width="36" height="36" alt="Android Studio" /></a>
-
+  <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/548340?v=4" width="36" height="36" alt="Android Studio" /></a>
+  <a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer"><img src="https://avatars.mds.yandex.net/i?id=a00a37ebce83aeca4c204c58bd68e0b2d817b678-6829499-images-thumbs&n=13" width="36" height="36" alt="Android Studio" /></a>
+  <a href="https://apidog.com/blog/how-to-setup-apidoc/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/4103663?s=48&v=4" width="36" height="36" alt="Android Studio" /></a>
+  
 Work with databases
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
