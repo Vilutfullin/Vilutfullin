@@ -10,7 +10,7 @@ Here I want to share some elements of the web testing and mobile testing portfol
 * 💻 I came to the quality control department from the support department
 * 🗃️ My educational projects <a href="https://github.com/Vilutfullin?tab=repositories">Github
 * 📝 My <a href="ССЫЛКА">resume</a> 
-* ⚽ I am football player
+
 
 ### My testing Tools
 Test documentation
