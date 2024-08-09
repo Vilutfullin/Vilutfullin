@@ -42,10 +42,10 @@ Work with databases
 
 
 ### My Study Cases
-* 🗺️ <a href= "https://github.com/Vilutfullin/Testing-the-Yandex-Routes-web-application">Testing-the-Yandex-Routes-web-application">
-* 📍🗺️ <a href= "https://github.com/Vilutfullin/Extended-testing-of-the-Yandex-Routes-web-application">Extended-testing-of-the-Yandex-Routes-web-application
+* 🗺️ <a href= "https://github.com/Vilutfullin/Testing-the-Yandex-Routes-web-application">Testing-the-Yandex-Routes-web-application
+* 🌏 <a href= "https://github.com/Vilutfullin/Extended-testing-of-the-Yandex-Routes-web-application">Extended-testing-of-the-Yandex-Routes-web-application
 * 📱 <a href= "https://github.com/Vilutfullin/Testing-the-Yandex-Metro-mobile-application">Testing-the-Yandex-Metro-mobile-application
-* 🛒🛍️ <a href= "https://github.com/Vilutfullin/Yandex-Shop-Web-Application-API">Yandex-Shop-Web-Application-API
+* 🛍 <a href= "https://github.com/Vilutfullin/Yandex-Shop-Web-Application-API">Yandex-Shop-Web-Application-API
 * 🛴 <a href= "https://github.com/Vilutfullin/Yandex-Scooter-Web-and-Mob-Application">Yandex-Scooter-Web-and-Mob-Application
 
 
