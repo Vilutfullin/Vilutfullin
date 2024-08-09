@@ -1,5 +1,3 @@
-![Header](https://github.com/msenchenkova/msenchenkova/blob/main/QAcover_git_msenchenkova.png)
-
 ### Hi there 🙋🏻‍♂️
 
 My name is Vil, and I am a quality control engineer. 
