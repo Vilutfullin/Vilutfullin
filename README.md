@@ -8,7 +8,7 @@ Here I want to share some elements of the web testing and mobile testing portfol
 * 👨🏻‍🎓 Finished <a href="https://practicum.yandex.ru/qa-engineer/?from=catalog"> QA Engineer Professional Training Course
 * 🔎 I’m currently open to job opportunities as QA Engineer
 * 💻 I came to the quality control department from the support department
-* 🗃️ My educational projects <a href="https://github.com/Vilutfullin?tab=repositories">Github
+* 🗃️ My educational <a href="https://github.com/Vilutfullin?tab=repositories">projects
 * 📝 My <a href="ССЫЛКА">resume</a> 
 
 
