@@ -1,6 +1,6 @@
 ### Hi there 🙋🏻‍♂️
 
-My name is Vil, and I am a quality control engineer. 
+My name is Vil, and I am a QA-Engineer. 
 Here I want to share some elements of the web testing and mobile testing portfolio that I received during my studies.
 
 ### A Few Quick Facts
