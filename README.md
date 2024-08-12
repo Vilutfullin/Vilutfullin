@@ -21,8 +21,6 @@ Test documentation
   <a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/885/629/png-transparent-miro-hd-logo-thumbnail.png" width="36" height="36" alt="Miro" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
   <a href="https://apidog.com/blog/how-to-setup-apidoc/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/4103663?s=48&v=4" width="36" height="36" alt="Android Studio" /></a>
-  <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/548340?v=4" width="36" height="36" alt="Android Studio" /></a>
-  <a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer"><img src="https://avatars.mds.yandex.net/i?id=a00a37ebce83aeca4c204c58bd68e0b2d817b678-6829499-images-thumbs&n=13" width="36" height="36" alt="Android Studio" /></a>
   <a href="https://docs.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968557.png" width="36" height="36" alt="Google Sheets" /></a>
   
 Application testing 
