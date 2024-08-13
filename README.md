@@ -9,7 +9,7 @@ Here I want to share some elements of the web testing and mobile testing portfol
 * 🔎 I’m currently open to job opportunities as QA Engineer
 * 💻 I came to the quality control department from the support department
 * 🗃️ My educational <a href="https://github.com/Vilutfullin?tab=repositories">projects
-* 📝 My <a href="ССЫЛКА">resume</a> 
+* 📝 My <a href="https://drive.google.com/file/d/1QG5lXxrx9q6wK_0yJaTnNZfmBzwds-DE/view?usp=sharing">Curriculum Vitae</a> 
 
 
 ### My testing Tools
