@@ -5,7 +5,7 @@ Here I want to share some elements of the web testing and mobile testing portfol
 
 ### A Few Quick Facts
 
-* 👨🏻‍🎓 Finished <a href="https://practicum.yandex.ru/qa-engineer/?from=catalog"> QA Engineer Professional Training Course
+* 👨🏻‍🎓 Finished <a href="https://drive.google.com/file/d/1DoAdDa5cZ0JW6nZifgQbpAik8KV7kCkf/view?usp=sharing"> QA Engineer Professional Training Course
 * 🔎 I’m currently open to job opportunities as QA Engineer
 * 💻 I came to the quality control department from the support department
 * 🗃️ My educational <a href="https://github.com/Vilutfullin?tab=repositories">projects
@@ -46,8 +46,8 @@ Work with databases
 * 🗺️ <a href= "https://github.com/Vilutfullin/Testing-the-Yandex-Routes-web-application">Testing-the-Yandex-Routes-web-application
 * 🌏 <a href= "https://github.com/Vilutfullin/Extended-testing-of-the-Yandex-Routes-web-application">Extended-testing-of-the-Yandex-Routes-web-application
 * 📱 <a href= "https://github.com/Vilutfullin/Testing-the-Yandex-Metro-mobile-application">Testing-the-Yandex-Metro-mobile-application
-* 🛍 <a href= "https://github.com/Vilutfullin/Yandex-Shop-Web-Application-API">Yandex-Shop-Web-Application-API
-* 🛴 <a href= "https://github.com/Vilutfullin/Yandex-Scooter-Web-and-Mob-Application">Yandex-Scooter-Web-and-Mob-Application
+* 🛍 <a href= "https://github.com/Vilutfullin/Yandex-Shop-Web-Application-API">Yandex-Shop-Web-Application-API Testing
+* 🛴 <a href= "https://github.com/Vilutfullin/Yandex-Scooter-Web-and-Mob-Application">Yandex-Scooter-Graduation Project
 
 
 
